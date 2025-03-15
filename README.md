@@ -1,7 +1,6 @@
 # bbCnDpKVtCPZYCq
 Machine Learning Model Comparison
 
-Overview
 This project aims to analyze housing prices using various machine-learning algorithms. The dataset used contains multiple features related to housing characteristics, and the goal is to predict the price of houses based on these features.
 
 Project Structure
